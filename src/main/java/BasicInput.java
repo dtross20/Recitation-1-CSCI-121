@@ -6,6 +6,11 @@ public class BasicInput {
         int userInt = 0;
         double userDouble = 0.0;
         // TODO Define char and string variables similarly
+        char userChar = ' ';
+        String userString = "";
+
+
+
 
         System.out.println("Enter integer:");
         userInt = scnr.nextInt();
