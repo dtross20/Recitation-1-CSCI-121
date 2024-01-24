@@ -30,6 +30,8 @@ public class BasicInput {
 
 
         // TODO (3): Cast the double to an integer, and output that integer
+        int deyvon = (int)(userDouble);
+        System.out.print(userDouble + "" + "cast to an integer is" + deyvon);
 
     }
 }
